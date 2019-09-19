@@ -15,7 +15,7 @@ import com.facebook.react.bridge.Dynamic;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.views.view.ReactViewGroup;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 public class RNAndrowLayout extends ReactViewGroup {
 
